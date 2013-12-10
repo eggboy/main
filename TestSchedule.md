@@ -18,5 +18,7 @@
 
 ### Changjae
 
-
-
+* File chunk 로 짤라서 MQ 에 enqueue 
+* MQTT + ActiveMQ prototyping
+* 실제 안드로이드로 3g 환경에서 전송 테스트
+* ActiveMQ Scale 에 대응 할 수 있게
