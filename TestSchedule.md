@@ -33,6 +33,8 @@
 
 
 ### Changjae
-
+* 일단 Prototype 은 일반 JMS 로 진행하고 이후에 MQTT 로 다시 Prototyping 할 예정
+* Android test 기기로 테스트 예정
+* ActiveMQ 쪽 구성 확장 가능하도록 JMSXGroupID JMSXGroupSeq 를 이용(MQTT 로 갈 경우에 어떻게 해야 할지 고민중)
 
 
